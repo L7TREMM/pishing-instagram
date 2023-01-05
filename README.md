@@ -5,7 +5,7 @@ Use com responsabilidade
 ### Não copie este código sem me dar os créditos :) 
 
 #### Password:
-``EUTHEUZIN```
+``EUTHEUZIN``
 
 
 ## Contrato:
