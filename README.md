@@ -15,7 +15,7 @@ O uso de Pishing para atacar alvos sem consentimento mútuo prévio é ilegal. �
 - Engenharia social
 
 # Última atualização feita
-``` 
+```sh
 > Foi corrigido o bug de redirection page ao finalizar o pedido
 > Foi adicionado uma página de success
 > Foi corrigido o bug de contagem dos "clientes comprando" 
