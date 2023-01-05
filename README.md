@@ -1,13 +1,24 @@
-# pishing-instagram
-Use com responsabilidade
-## Author: t.me/EUTHEUZIN
-## Twitter: twitter.com/eutheuzin7
-### Não copie este código sem me dar os créditos :) 
+# **[@eutheuzin7](https://github.com/@eutheuzin7)**
+**Minhas redes sociais abaixo**
 
-#### file password:
-``EUTHEUZIN``
+> twitter [@eutheuzin7](https://twitter.com/@eutheuzin7).
+> 
+> Instagram [@eutheuzin7](https://Instagram.com/eutheuzin7)
 
+# Atenção
+O uso de Pishing para atacar alvos sem consentimento mútuo prévio é ilegal. É responsabilidade do usuário final obedecer a todas as leis locais, estaduais e federais aplicáveis. O desenvolvedor não assumem nenhuma responsabilidade.
 
-## Contrato:
+> Não me responsabilizo por mal uso do "script" e peço por favor para que não abusem dele.
+# Requisitos
+- Plano de domínio e hospedagem
+- Certificado ssl
+- Engenharia social
 
-O uso de Shellphish para atacar alvos sem consentimento mútuo prévio é ilegal. É responsabilidade do usuário final obedecer a todas as leis locais, estaduais e federais aplicáveis. O desenvolvedore não assumem nenhuma responsabilidade.
+# Última atualização feita
+``` Foi corrigido o bug de redirection page ao finalizar o pedido
+``` Foi adicionado uma página de success
+``` Foi corrigido o bug de contagem dos "clientes comprando" 
+``` Foi Corrigido o redirect do navbar para o site oficial 
+
+## Equipe <3
+> Criador - [@EUTHEUZIN](https://t.me/EUTHEUZIN)
